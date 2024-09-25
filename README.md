@@ -7,14 +7,6 @@
 
 ---
 
-## Resources
-
-- [⚡️ Website](https://jesse.trade)
-- [🎓 Documentation](https://docs.jesse.trade)
-- [🎥 Youtube channel (screencast tutorials)](https://jesse.trade/youtube)
-- [🛟 Help center](https://jesse.trade/help)
-- [💬 Discord community](https://jesse.trade/discord)
-
 ## Screenshots
 
 Here are a few screenshots just to get you excited:
