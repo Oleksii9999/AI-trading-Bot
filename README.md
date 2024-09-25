@@ -1,15 +1,4 @@
-<div align="center">
-<br>
-<p align="center">
-<img src="assets/jesse-logo.png" alt="Jesse" height="72" />
-</p>
 
-<p align="center">
-Algo-trading was 😵‍💫, we made it 🤩
-</p>
-</div>
-
-# Jesse
 [![PyPI](https://img.shields.io/pypi/v/jesse)](https://pypi.org/project/jesse)
 [![Downloads](https://pepy.tech/badge/jesse)](https://pepy.tech/project/jesse)
 [![Docker Pulls](https://img.shields.io/docker/pulls/salehmir/jesse)](https://hub.docker.com/r/salehmir/jesse)
@@ -17,18 +6,6 @@ Algo-trading was 😵‍💫, we made it 🤩
 [![coverage](https://codecov.io/gh/jesse-ai/jesse/graph/badge.svg)](https://codecov.io/gh/jesse-ai/jesse)
 
 ---
-
-Jesse is an advanced crypto trading framework that aims to **simplify** **researching** and defining **YOUR OWN trading strategies**.
-
-## Why Jesse?
-In short, Jesse is more **accurate** than other solutions, and way more **simple**. 
-In fact, it is so simple that in case you already know Python, you can get started today, in **matter of minutes**, instead of **weeks and months**. 
-
-**[Here](https://docs.jesse.trade)** you can read more about Jesse's features and why you should use it. 
-
-## Getting Started
-Head over to the "getting started" section of the [documentation](https://docs.jesse.trade/docs/getting-started). The 
-documentation is **short yet very informative**. 
 
 ## Resources
 
@@ -39,8 +16,6 @@ documentation is **short yet very informative**.
 - [💬 Discord community](https://jesse.trade/discord)
 
 ## Screenshots
-
-Check out Jesse's [Youtube channel](https://jesse.trade/youtube) for tutorials that go through example strategies step by step. 
 
 Here are a few screenshots just to get you excited:
 
@@ -95,11 +70,6 @@ class SMACrossover(Strategy):
 **Live trading (requires [live plugin](https://docs.jesse.trade/docs/livetrade.html)):**
 
 ![image](assets/screenshots/live-mode.jpg)
-
-
-## What's next?
-
-You can see the project's **[roadmap here](https://docs.jesse.trade/docs/roadmap.html)**. **Subscribe** to our mailing list at [jesse.trade](https://jesse.trade) to get the good stuff as soon they're released. Don't worry, We won't send you spam—Pinky promise.
 
 ## How to contribute
 
